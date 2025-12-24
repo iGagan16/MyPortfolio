@@ -172,10 +172,6 @@ const Contact = () => {
             <form 
               className="max-w-lg mx-auto space-y-6" 
               name="contact" 
-              method="POST" 
-              data-netlify="true"
-              onSubmit={handleSubmit}
-              netlify-honeypot="bot-field"
               netlify
             >
               {/* Netlify Form Attributes */}
