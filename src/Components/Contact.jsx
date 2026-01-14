@@ -172,9 +172,9 @@ const Contact = () => {
             <form 
               className="max-w-lg mx-auto space-y-6" 
               name="contact" 
-              netlify
+              
             >
-              {/* Netlify Form Attributes */}
+              
               <input type="hidden" name="form-name" value="contact" />
               <p className="hidden">
                 <label>
